@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/bcts369/bcts369/master/profile-summary-card-output/default/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/bcts369/bcts369/master/profile-summary-card-output/default/3-stats.svg)
 
-[![ithub stats](https://github-readme-stats.vercel.app/api?username=bcts369](https://github.com/anuraghazra/github-readme-stats)
 
