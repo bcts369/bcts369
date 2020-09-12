@@ -24,5 +24,7 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=bcts369&color=green) ![GitHub-Profile-Summary-Cards](https://github.com/bcts369/bcts369/workflows/GitHub-Profile-Summary-Cards/badge.svg)
 
-[![ithub stats](https://github-readme-stats.vercel.app/api?username=bcts369](https://github.com/anuraghazra/github-readme-stats)
+[![ithub stats](https://github-readme-stats.vercel.app/api?username=bcts369](https://github.com/anuraghazra/github-readme-stats)]
+[![github stats](https://github-readme-stats.vercel.app/api?username=bcts369)](https://github.com/anuraghazra/github-readme-stats)
+
 
