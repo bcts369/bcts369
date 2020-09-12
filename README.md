@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/bcts369/bcts369/master/profile-summary-card-output/default/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/bcts369/bcts369/master/profile-summary-card-output/default/3-stats.svg)
 
-![](https://komarev.com/ghpvc/?username=bcts369&color=green)
-
+![](https://komarev.com/ghpvc/?username=bcts369&color=green) ![GitHub-Profile-Summary-Cards](https://github.com/bcts369/bcts369/workflows/GitHub-Profile-Summary-Cards/badge.svg)
