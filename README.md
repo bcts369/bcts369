@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 
 
+![](https://raw.githubusercontent.com/bcts369/bcts369/master/profile-summary-card-output/default/0-profile-details.svg)
 ![](https://raw.githubusercontent.com/bcts369/bcts369/master/profile-summary-card-output/default/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/bcts369/bcts369/master/profile-summary-card-output/default/)
+2-most-commit-language.svg
+![](https://raw.githubusercontent.com/bcts369/bcts369/master/profile-summary-card-output/default/3-stats.svg)
+
